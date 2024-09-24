@@ -1,0 +1,26 @@
+h1{
+    color: cornflowerblue;
+    font-size: 50px;
+    font-family:cursive;
+    background-color: rgb(157, 199, 241);
+}
+p{
+    color: darkblue;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{background-color:lightblue;
+
+}
+.marina{
+    color: dodgerblue;
+}
+h2{
+    color:rgb(104, 174, 245)
+}
+a{
+    color:snow;
+}
+a:hover{
+color: rgb(75, 99, 233);
+}
